@@ -51,7 +51,7 @@ The complete output is available in `ir output.pdf`.
 * `bbc_news.csv` – Dataset used for the project.
 * `ir output.pdf` – Output and results of the project.
 
-## 👩‍💻 Project
+##  Project
 
 **Information Retrieval using TF-IDF**
 
